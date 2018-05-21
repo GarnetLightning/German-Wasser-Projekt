@@ -1,0 +1,64 @@
+head {
+}
+
+header { text-align: center;
+		 color: #043DFE;
+}
+
+/* Navigation Set up and Code */
+
+nav { 
+}
+
+ul { list-style-type: none;
+	 margin: 0;
+	 padding; 0;
+	 overflow: hidden;
+	 background-color: #3BC50B; 
+} 
+
+li { float: left;
+	 border-right: 2px solid #030303;
+}
+
+li a { display: block;
+	   color: white;
+	   text-align: center;
+	   padding: 14px 16px;
+	   text-decoration: none;
+}
+
+li a:hover { background-color: #5BE623; 
+}
+
+.active { background-color: #30F1E8;
+}
+
+li:last-child { border-right: none; 
+}
+
+/* End of Navigation Set up and Code */ 
+
+example { border: 
+	   margin:
+	   padding:
+	   
+}
+
+
+body {
+	background-color: #71C1FF; 
+}
+
+h1 { color: #FC5B5B;
+	text-align: center;
+	padding: 50px;
+	margin: 15px;
+	
+}
+
+h2 { 
+} 
+
+p {
+} 
