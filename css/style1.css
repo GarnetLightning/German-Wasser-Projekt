@@ -41,39 +41,49 @@ li:last-child { border-right: none;
 
 /* Paragraph Stuff */ 
 
+.div1 { position: absolute;
+		top: 100px;
+		left: 5px;
+		width: 900px;
+		height: 650px;
+		border: 10px solid #000000;
+		background-color: #2B65EC;
+}
+
+
 p1 { text-align: center;
-	 size: 17px;
-	 color: #148F77;
+	 size: 300px; 
+	 color: #000000;
 }
 
 p2 { text-align: center;
-	 size: 17px;
-	 color: #148F77;
+	 size: 300px;
+	 color: #000000;
 }
 
 p3 { text-align: center;
-	 size: 17px;
-	 color: #148F77;
+	 size: 300px;
+	 color: #000000;
 }
 
 p4 { text-align: center;
-	 size: 17px;
-	 color: #148F77;
+	 size: 300px;
+	 color: #000000;
 }
 
 p5 { text-align: center;
-	 size: 17px;
-	 color: #148F77; 
+	 size: 300px;
+	 color: #000000; 
 }
 
 p6 { text-align: center;
-	 size: 17px;
-	 color: #148F77;
+	 size: 300px;
+	 color: #000000;
 }
 
 p7 { text-align: center;
-	 size: 17px;
-	 color: #148F77; 
+	 size: 300px;
+	 color: #000000; 
 }
 
 /* End of Paragraph Stuff */ 

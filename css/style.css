@@ -50,10 +50,20 @@ body {
 	background-color: #71C1FF; 
 }
 
-p { text-align: center;
-	size: 170px; 
-	color: #148F77; 
+p { text-align: left;
+	size: 300px; 
+	color: #000000; 
+	
 } 
+
+.div1 {         position: absolute; 
+				top: 150px;
+				left: 5px;
+				width: 1500px;
+				height: 999px; 
+				border: 10px solid #00000; 
+				background-color: #2B65EC;
+}
 
 h1 { color: #FC5B5B;
 	text-align: center;

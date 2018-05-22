@@ -50,15 +50,37 @@ body {
 	background-color: #71C1FF; 
 }
 
-ul {
+.ul1 { list-style-type: none,
+	   margin: 0;
+	   padding: 0;
+	   overflow: hidden;
+	   color: #000000;    
 }
 
 li { 
 }
 
+.div1 { position: absolute;
+		top: 80px;
+		left: 5px;
+		width: 250px;
+		height: 350px;
+		border: 10px solid #000000;
+		background-color: #2B65EC;
+}
+
+.div2 { position: absolute;
+		top: 80px;
+		left: 400px;
+		width: 250px;
+		height: 350px;
+		border: 10px solid #000000;
+		background-color: #2B65EC;
+} 
+
 p { text-align: center;
 	 size: 17px;
-	 color: #148F77; 
+	 color: #000000; 
 } 
 
 h1 { color: #FC5B5B;

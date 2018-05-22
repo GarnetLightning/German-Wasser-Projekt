@@ -45,9 +45,27 @@ example { border:
 	   
 }
 
-
 body {
 	background-color: #71C1FF; 
+}
+
+
+.div1 { position: absolute;
+		top: 80px;
+		left: 5px;
+		width: 400px;
+		height: 400px;
+		border: 10px solid #000000;
+		background-color: #2B65EC;
+}
+
+.div2 { position: absolute;
+		top: 80px;
+		left: 400px;
+		width: 430px;
+		height: 300px;
+		border: 10px solid #000000;
+		background-color: #2B65EC;
 }
 
 h1 { color: #FC5B5B;
